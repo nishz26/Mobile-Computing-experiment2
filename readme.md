@@ -4,7 +4,7 @@ Offered by [BasicAirData](https://www.basicairdata.eu) - Open and free DIY air d
 
 ![alt tag](https://github.com/BasicAirData/GPSLogger/blob/master/screenshots/Image_01.png)
 
-## Description
+## Description...
 
 BasicAirData GPS Logger is a simple app to record your position and your path.<br>
 It's a basic and lightweight GPS tracker focused on accuracy, with an eye to power saving.<br>
