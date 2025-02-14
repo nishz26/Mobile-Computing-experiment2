@@ -24,7 +24,7 @@ package eu.basicairdata.graziano.gpslogger;
 import static eu.basicairdata.graziano.gpslogger.GPSApplication.NOT_AVAILABLE;
 
 /**
- * Check the evolution of the altitudes with the purpose to detect the altitude spikes.
+ * Checks the evolution of the altitudes with the purpose to detect the altitude spikes.
  */
 class SpikesChecker {
 
